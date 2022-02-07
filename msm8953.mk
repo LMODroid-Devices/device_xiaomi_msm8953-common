@@ -127,7 +127,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap
+    LMOCamera
 
 # Crypto
 PRODUCT_PACKAGES += \
